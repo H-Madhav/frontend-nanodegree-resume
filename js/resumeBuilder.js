@@ -60,6 +60,12 @@ var education = {
         "year": "Aug:2016",
         "url": "https://www.udacity.com/course/programming-foundations-with-python--ud036"
 
+    },{
+        "name": "Angular.js, Discover DevTools",
+        "school": "codeschool",
+        "year": "Oct:2016",
+        "url": "https://www.codeschool.com"
+
     }]
 }
 
