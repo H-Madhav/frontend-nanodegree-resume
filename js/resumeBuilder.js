@@ -90,7 +90,7 @@ var projects = {
         "title": "To Do List",
         "date": "Jan:2015",
         "description": "A list of tasks that need to be completed, typically organized in order of priority.This project is based on jQuery .One of the most important reasons for keeping a to-do list is the organization. Organizing your tasks with a list can make everything much more manageable and make you feel grounded. Seeing a clear outline of your completed and uncompleted tasks will help you feel organized and stay mentally focused.",
-        "images": "./images/toDOlist.png",
+        "images": "./images/todolist.png",
         "url": "https://github.com/madhav1993/ToDoList"
     }, {
         "title": "Tip Calculator",
