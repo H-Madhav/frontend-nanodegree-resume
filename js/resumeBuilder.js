@@ -1,6 +1,6 @@
 var bio = {
     "name": "Hari Madhav Jha",
-    "role": "Web Devloper",
+    "role": "Web Developer",
     "contacts": {
         "mobile": "7204741124",
         "email": "madhav1993hari@gmail.com",
@@ -8,7 +8,7 @@ var bio = {
         "twitter": "Madhav7Jha",
         "location": "Bangaluru"
     },
-    "welcomeMessage": "Hello !,I'm madhav.I have a passion for web devlopment and love to create for web and mobile devices.",
+    "welcomeMessage": "Hello !,I'm Madhav.I have a passion for web development and love to create for web and mobile devices.",
     "skills": ["HTML5, CSS3", "Javascript, jQuery", "Git", "Gulp, Grunt", "core-java", "photoshop"],
     "bioPic": "images/ff2.jpg"
 }
